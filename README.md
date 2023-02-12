@@ -26,7 +26,7 @@
 **Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716123/Sales.Dashboard.xlsx)
 
  ### <ins> Conditional Formatting
-**Description :** In this worksheet, I created rules for specific values and showed  them with  different colours or icons <br>
+**Description :** In this worksheet, I created rules for specific values and showed  them with  different colours or icons by using **conditional formatting** <br>
 **Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716138/Conditional.Formatting.Github.xlsx)
 
   
