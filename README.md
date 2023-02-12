@@ -17,6 +17,17 @@
 **Description :** In this worksheet, I explored total sales by Employee&Category and Total Sales by Years, Quarters, and Months per each Employee by using **PIVOT table**. <br>
 **Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716103/Performance.Reviews.Github.xlsx)
 
+### <ins> Compare annual revenue 
+**Description :** In this worksheet, I compared annual revenue from two different table per Business Identity ID by using **PIVOT table, VLOOKUP formula**
+**Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716113/Compare.annual.revenue.Github.xlsx)
+
+  
+  
+  
+  
+  
+  
+  
   
   
   
