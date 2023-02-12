@@ -18,11 +18,14 @@
 **Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716103/Performance.Reviews.Github.xlsx)
 
 ### <ins> Compare annual revenue 
-**Description :** In this worksheet, I compared annual revenue from two different table per Business Identity ID by using **PIVOT table, VLOOKUP formula**
+**Description :** In this worksheet, I compared annual revenue from two different table per Business Identity ID by using **PIVOT table, VLOOKUP formula**  <br>
 **Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716113/Compare.annual.revenue.Github.xlsx)
 
-  
-  
+### <ins> Sales Dashboard
+**Description :** In this worksheet, I created a Sales dashboard with a slicer by using **different types of charts, PIVOT table**.  <br>
+**Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716123/Sales.Dashboard.xlsx)
+
+ 
   
   
   
