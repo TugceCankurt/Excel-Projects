@@ -13,6 +13,9 @@
 **Description :** In this worksheet, I produced a **dashboard** showing the data roaming charges for each staff member by using **IFS formula, PIVOT table, creating charts**.  <br>
 **Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716095/Data.roaming.charges.Github.xlsx)
 
+### <ins> Performance Reviews
+**Description :** In this worksheet, I explored total sales by Employee&Category and Total Sales by Years, Quarters, and Months per each Employee by using **PIVOT table**. <br>
+**Document:** Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716103/Performance.Reviews.Github.xlsx)
 
   
   
