@@ -6,6 +6,14 @@
 **Method:** Data Cleaning, Pivot, Creating chart
 
 ### <ins> Badly Structured Sales Data
-**Description :** In this worksheet, I transformed Badly Structured Sales Data to cleaned data by using **INDEX, MATCH formula and using Subtotal**  <br>
+**Description :** In this worksheet, I transformed Badly Structured Sales Data to cleaned data by using **INDEX, MATCH formula and Subtotal**  <br>
 **Document: Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716061/Badly-Structured-Sales-Data.xlsx)
 
+### <ins> Data roaming charges
+**Description :** In this worksheet, I produced a **dashboard** showing the data roaming charges for each staff member by using **IFS formula, PIVOT table, creating charts.  <br>
+**Document: Please find the worksheet here ; [ Excel Worksheet ](https://github.com/TugceCankurt/Excel-Projects/files/10716095/Data.roaming.charges.Github.xlsx)
+
+  
+  
+  
+  
